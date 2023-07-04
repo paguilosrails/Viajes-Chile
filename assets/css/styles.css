@@ -1,9 +1,13 @@
 
-
 .fa-solid{
     background-color:rgb(84, 193, 236);     
 }
 .card-body-destacados{
     background-color:rgb(84, 193, 236); 
+    padding-bottom: 20px;
+}
+
+.card-text{
+    font: normal normal normal 20px/29px Raleway;
 }
     
